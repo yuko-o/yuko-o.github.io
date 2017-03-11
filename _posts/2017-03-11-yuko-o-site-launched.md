@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hank Quinlan, Horrible Cop, Launches Site"
+title: "yuko-o launches experimental site"
 date: 2017-03-11
 ---
 
